@@ -1,6 +1,6 @@
-# ZBOGOM
-Dynamic, temporally-coherent recurrent neural networks
-Written and developed by Luke Strgar and Joshua Melander. __MIT License, 2019__
+### Hi! Thanks for coming. 
+
+This is ZBOGOM, which means farewell in Slovenian. What you will find here are dynamic, temporally-coherent recurrent neural networks. I was fortunate to work on this with my friend JB Melander. 
 
 ## models.py
 Contains various reservoir-models
