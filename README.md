@@ -1,6 +1,6 @@
-### Hi! Thanks for coming. 
+### Hi! Thanks for visiting. 
 
-This is ZBOGOM, which means farewell in Slovenian. What you will find here are dynamic, temporally-coherent recurrent neural networks. I was fortunate to work on this with my friend JB Melander. 
+What you will find here are set of experiments with dynamic, temporally-coherent recurrent neural networks. I was fortunate to work on this with my friend JB Melander. 
 
 models.py, init_net.py, and optimizers.py, respecitvley, contains various reservoir-models, allows for running and plotting instantiated networks, and provides methods for training reservoir-models.
 
